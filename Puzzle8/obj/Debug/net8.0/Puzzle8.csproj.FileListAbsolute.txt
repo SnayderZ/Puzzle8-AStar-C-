@@ -1,0 +1,14 @@
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\bin\Debug\net8.0\Puzzle8.exe
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\bin\Debug\net8.0\Puzzle8.deps.json
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\bin\Debug\net8.0\Puzzle8.runtimeconfig.json
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\bin\Debug\net8.0\Puzzle8.dll
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\bin\Debug\net8.0\Puzzle8.pdb
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.AssemblyInfo.cs
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.dll
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\refint\Puzzle8.dll
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.pdb
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\Puzzle8.genruntimeconfig.cache
+C:\Users\Damian\Desktop\Proyecto-Facturacion\Puzzle\Puzzle8\obj\Debug\net8.0\ref\Puzzle8.dll

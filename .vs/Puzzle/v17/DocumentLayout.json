@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\astarsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\astarsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\puzzle8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\puzzle8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|c:\\users\\damian\\desktop\\proyecto-facturacion\\puzzle\\puzzle8\\searchalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFD11DA-96C7-492E-8143-3D223D9E3E6C}|Puzzle8\\Puzzle8.csproj|solutionrelative:puzzle8\\searchalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Puzzle8.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Puzzle8.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\Puzzle8.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Puzzle8.cs",
+              "RelativeToolTip": "Puzzle8\\Puzzle8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:38:14.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AStarSearch.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\AStarSearch.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\AStarSearch.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\AStarSearch.cs",
+              "RelativeToolTip": "Puzzle8\\AStarSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:37:59.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Program.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\Program.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Program.cs",
+              "RelativeToolTip": "Puzzle8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:36:58.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\SearchAlgorithm.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\SearchAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\SearchAlgorithm.cs",
+              "RelativeToolTip": "Puzzle8\\SearchAlgorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:37:51.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Node.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\Node.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\Node.cs",
+              "RelativeToolTip": "Puzzle8\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:37:37.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\State.cs",
+              "RelativeDocumentMoniker": "Puzzle8\\State.cs",
+              "ToolTip": "C:\\Users\\Damian\\Desktop\\Proyecto-Facturacion\\Puzzle\\Puzzle8\\State.cs",
+              "RelativeToolTip": "Puzzle8\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T00:37:24.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
